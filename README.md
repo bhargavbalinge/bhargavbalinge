@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavgbalinge&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavgbalinge" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxy8605&label=Profile%20views&color=0e75b6&style=flat" alt="maxy8605" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="bhargavgbalinge" alt="bhargavgbalinge" /></a> </p>
 
